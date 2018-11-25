@@ -1,0 +1,7 @@
+templates/
+
+package-lock.json
+
+.vscode/
+
+static_cdn/
